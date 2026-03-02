@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/open-vsx/v/wexelsdev/colored-debug?style=for-the-badge&label=Open%20VSX&logo=visual-studio-code&logoColor=white&color=purple" alt="Open VSX Version">
   </a>
 
-  <a href="https://github.com/USER/REPO/releases">
+  <a href="https://github.com/wexelsdev/Colored-debug/releases">
     <img src="https://img.shields.io/github/v/release/wexelsdev/Colored-debug?style=for-the-badge&label=GitHub%20VSIX&logo=github&color=orange" alt="GitHub Release Version">
   </a>
 </p>
